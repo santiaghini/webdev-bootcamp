@@ -1,0 +1,12 @@
+div{
+    width: 100px;
+    height: 100px;
+    background: teal;
+    /* have them on the same line */
+    float: left;
+    margin: 20px;
+}
+
+.hidden{
+    display: none;
+}

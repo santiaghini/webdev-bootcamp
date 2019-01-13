@@ -1,0 +1,50 @@
+font family*/
+
+p {
+	font-family: 'Gamja Flower', cursive;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+}
+
+/*font size*/
+
+body {
+	font-size: 10px;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+p {
+	font-size: 16px;
+}
+
+/*relative size*/
+span {
+	font-size: 2.0em;
+}
+
+/*font weight*/
+
+p {
+	font-weight: bold;
+}
+
+/*line height*/
+p {
+	line-height: 1.5;
+}
+
+/*text-align*/
+h1 {
+	text-align: center;
+}
+
+/*text decoration*/
+
+p {
+	text-decoration: underline;
+}

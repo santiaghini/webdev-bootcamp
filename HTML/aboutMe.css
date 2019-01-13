@@ -1,0 +1,25 @@
+body {
+	background: pink;
+	/*background: url(https://image.freepik.com/free-vector/abstract-geometric-pattern-background_1319-242.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+	
+}
+
+h1 {
+	color: #000000;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px solid rgb(255,100,80);
+
+}
+
+h4 {
+	color: #FF938B;
+}
+
+li {
+	color: #239293;
+}
+

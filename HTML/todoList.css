@@ -1,0 +1,20 @@
+body {
+	background: white;
+}
+
+/*Element*/
+li {
+	border: 2px solid red;
+}
+
+/*ID*/
+#special {
+	background-color: yellow;
+}
+
+/*Class*/
+.completed {
+	text-decoration: line-through;
+}
+
+/*Star*/

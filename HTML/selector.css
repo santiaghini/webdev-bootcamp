@@ -1,0 +1,55 @@
+/*CSS SELECTORS*/
+
+
+body {
+	background: white;
+}
+
+/*Element*/
+li {
+	border: 2px solid red;
+}
+
+/*ID*/
+#special {
+	background-color: yellow;
+}
+
+/*Class*/
+.completed {
+	text-decoration: line-through;
+}
+
+/*Star*/
+
+* {
+	border: 1px solid gray;
+}
+
+/*Descendant Selector*/
+
+li ul a {
+	color: red;
+}
+
+/*Adjacent Selector*/
+/*After the selector*/
+
+h4 + ul {
+	border: 4px solid red;
+}
+
+/*Attribute Selector*/
+
+a[href="http://www.google.com"] {
+
+}
+
+input[type="checkbox"] {
+
+}
+
+/*nth of type*/
+ul:nth-of-type(3) {
+	background: purple;
+}

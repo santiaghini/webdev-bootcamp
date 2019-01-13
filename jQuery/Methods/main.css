@@ -1,0 +1,16 @@
+.correct{
+    color: green;
+}
+
+.wrong{
+    color: red;
+}
+
+.done{
+    color: gray;
+    text-decoration: line-through;
+}
+
+.big{
+    font-size: 3.5rem;
+}
